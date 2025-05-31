@@ -2,6 +2,6 @@ Welcome to the Machine Learning Labs repository! This collection includes hands-
 
 Git clone my repo:  https://github.com/21jzele0449/Machine-Learning-Labs
 
-##Technologies Used  (Python 3.9+ , Jupyter Notebook , NumPy , pandas , scikit-learn , matplotlib, seaborn)
+##Technologies Used  (Python 3.9+ , Jupyter Notebook , NumPy , pandas , scikit-learn , matplotlib, tensorflow , keras)
 
 ##Learning Goals (Understand core machine learning algorithms , Implement models from scratch , Analyze performance with evaluation metrics , Develop a hands-on intuition for data science workflows)
